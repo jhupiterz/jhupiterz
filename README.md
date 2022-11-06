@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhupiterz
+- 👋 Hi, I’m Julie
 - 👽 I’m a PhD student in Astrobiology at McMaster University, Hamilton, Canada.
 - 🌱 I’m mostly interested in using data science to support my research.
 - 🧠 I’m looking to collaborate on academic projects.
