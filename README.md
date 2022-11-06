@@ -1,3 +1,5 @@
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 - 👋 Hi, I’m Julie
 - 👽 I’m a PhD student in Astrobiology at McMaster University, Hamilton, Canada.
 - 🌱 I’m mostly interested in using data science to support my research.
