@@ -7,12 +7,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-👋 Hi, I’m Julie
-👽 I’m a PhD student in Astrobiology at McMaster University, Hamilton, Canada.
-🌱 I’m mostly interested in using data science to support my research.
-🧠 I’m looking to collaborate on academic projects.
-📫 How to reach me: [hartzj1@mcmaster.ca](mailto:hartzj1@mcmaster.ca)
-💻 Check my [portfolio](https://jhupiterz.github.io/)
+👋 Hi, I’m Julie<br>
+👽 I’m a PhD student in Astrobiology at McMaster University, Hamilton, Canada.<br>
+🌱 I’m mostly interested in using data science to support my research.<br>
+🧠 I’m looking to collaborate on academic projects.<br>
+📫 How to reach me: [hartzj1@mcmaster.ca](mailto:hartzj1@mcmaster.ca)<br>
+💻 Check my [portfolio](https://jhupiterz.github.io/)<br>
 
 <!---
 jhupiterz/jhupiterz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
