@@ -10,7 +10,7 @@
 👋 Hi, I’m Julie<br>
 👽 I’m a PhD student in Astrobiology at McMaster University, Hamilton, Canada.<br>
 🌱 I’m mostly interested in using data science to support my research.<br>
-🧠 I’m looking to collaborate on academic projects.<br>
+🧠 I’m currently developing a database of signatures of life on Earth and beyond.<br>
 📫 How to reach me: [hartzj1@mcmaster.ca](mailto:hartzj1@mcmaster.ca)<br>
 💻 Check my [portfolio](https://jhupiterz.github.io/)<br>
 
