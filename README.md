@@ -12,7 +12,7 @@
 I’m a PhD student in astrobiology at McMaster University, Hamilton, Canada.<br>
 Here are the two projects I currently am working on:<br>
 1. Developing a database of signatures of life on Earth and beyond.<br>
-2. Building a UI to visualize how different levels of complexity correlate within my samples.<br>
+2. Building a UI to visualize how different levels of complexity correlate within my samples.<br><br>
 📫 How to reach me: [hartzj1@mcmaster.ca](mailto:hartzj1@mcmaster.ca)<br>
 💻 Check my [portfolio](https://jhupiterz.github.io/)<br>
 
