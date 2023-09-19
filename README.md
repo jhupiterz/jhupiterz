@@ -13,7 +13,9 @@
 I’m a PhD student in astrobiology at McMaster University, Hamilton, Canada.<br>
 Here are the two projects I currently am working on:<br>
 1. [Biosignature Database](https://jhupiterz.github.io/theme-documentation-basics/database.html): developing a database of signatures of life on Earth and beyond.<br>
-2. [Sample Visualizer](https://jhupiterz.github.io/theme-documentation-basics/sample-visualizer.html): building a UI to visualize how different levels of complexity correlate within my samples.<br><br>
+2. [Sample Visualizer](https://jhupiterz.github.io/theme-documentation-basics/sample-visualizer.html): building a UI to visualize how different levels of complexity correlate within my samples.
+
+
 📫 How to reach me: [hartzj1@mcmaster.ca](mailto:hartzj1@mcmaster.ca)<br>
 💻 Check my [portfolio](https://jhupiterz.github.io/)<br>
 
