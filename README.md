@@ -7,7 +7,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-[![Plotly community](https://img.shields.io/badge/plotly-community_assistant-blue)](https://community.plotly.com/u/jhupiterz/summary)
+[![Plotly community](https://img.shields.io/badge/plotly-community_assistant-green)](https://community.plotly.com/u/jhupiterz/summary)
 
 👋 Hi, I’m Julie<br>
 I’m a PhD student in astrobiology at McMaster University, Hamilton, Canada.<br>
